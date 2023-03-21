@@ -1,0 +1,49 @@
+Title: Bug report for errors found on https://qahacking.guru/
+
+Description:
+During testing of https://qahacking.guru/ website, I found several errors that need to be addressed. These errors include:
+
+    Inconsistent Navigation:
+    The navigation menu on the website is inconsistent, and some links lead to the wrong pages. For example, when I clicked on the "About Us" link in the footer, it redirected me to the homepage instead of the About Us page. This could cause confusion for users trying to find information on the website.
+
+    Broken Links:
+    Several links on the website are broken and lead to 404 pages. This could be due to changes in the website's structure or URLs. Broken links can negatively impact the user experience and should be fixed as soon as possible.
+
+    Poor Layout:
+    The layout of the website is not optimized for all devices. When I viewed the website on a mobile device, some of the content overlapped and made it difficult to read. Best practices dictate that websites should be optimized for all devices, including mobile devices.
+
+    Inaccurate Information:
+    Some of the information on the website is inaccurate. For example, on the "Services" page, it claims to offer services that are not listed on the page. This can be frustrating for users who are looking for specific information and may lead to a lack of trust in the website.
+
+Steps to Reproduce:
+
+    Navigate to https://qahacking.guru/
+    Click on the "About Us" link in the footer.
+    Try to access the broken links on the website.
+    View the website on a mobile device.
+    Read through the information on the website and verify its accuracy.
+
+Expected Result:
+
+    The "About Us" link should lead to the About Us page.
+    All links on the website should be functional and lead to the correct pages.
+    The website should be optimized for all devices, and content should not overlap.
+    The information on the website should be accurate and match the services offered.
+
+Actual Result:
+
+    The "About Us" link redirects to the homepage.
+    Several links on the website lead to 404 pages.
+    Some of the content on the website overlaps when viewed on a mobile device.
+    The information on the website is inaccurate in some places.
+
+
+
+Recommendations:
+
+    Fix the navigation menu and ensure that all links lead to the correct pages.
+    Repair broken links and redirect them to the correct pages.
+    Optimize the website for all devices and ensure that content does not overlap.
+    Verify the accuracy of all information on the website and update it as necessary.
+
+Overall, addressing these errors will improve the user experience on the website and increase user trust in the information provided.
